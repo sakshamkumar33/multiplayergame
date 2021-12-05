@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1606321790 source:c:\users\sudar\desktop\dsa p\snakeladder.cpp
+	"header.h"
+
+1606319884 source:c:\users\sudar\desktop\dsa p\hangman.cpp
+	"header.h"
+
+1605873077 c:\users\sudar\desktop\dsa p\snakeladder.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<ctime>
+	<chrono>
+	<string>
+	<vector>
+	<set>
+	<deque>
+
+1606325005 source:c:\users\sudar\desktop\dsa p\roadcross.cpp
+	"header.h"
+
+1606327804 source:c:\users\sudar\desktop\dsa p\snake.cpp
+	"header.h"
+
+1606359613 source:c:\users\sudar\desktop\dsa p\main.cpp
+	<iostream>
+	<sstream>
+	<process.h>
+	<fstream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<time.h>
+	<ctime>
+	<chrono>
+	<Windows.h>
+	<vector>
+	<set>
+	"header.h"
+
+1606292196 c:\users\sudar\desktop\dsa p\header.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<ctime>
+	<chrono>
+	<string>
+	<vector>
+	<set>
+	<deque>
+
+1638719492 source:d:\desktop\4-in-1-multiplayer-games--main\4-in-1-multiplayer-games--main\hangman.cpp
+	"header.h"
+
+1638719493 d:\desktop\4-in-1-multiplayer-games--main\4-in-1-multiplayer-games--main\header.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<ctime>
+	<chrono>
+	<string>
+	<vector>
+	<set>
+	<deque>
+
+1638719493 source:d:\desktop\4-in-1-multiplayer-games--main\4-in-1-multiplayer-games--main\roadcross.cpp
+	"header.h"
+
+1638719494 source:d:\desktop\4-in-1-multiplayer-games--main\4-in-1-multiplayer-games--main\snake.cpp
+	"header.h"
+
+1638719494 source:d:\desktop\4-in-1-multiplayer-games--main\4-in-1-multiplayer-games--main\snakeladder.cpp
+	"header.h"
+
+1638721466 source:d:\desktop\4-in-1-multiplayer-games--main\4-in-1-multiplayer-games--main\main.cpp
+	<iostream>
+	<sstream>
+	<process.h>
+	<fstream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<time.h>
+	<ctime>
+	<chrono>
+	<Windows.h>
+	<vector>
+	<set>
+	"header.h"
+
